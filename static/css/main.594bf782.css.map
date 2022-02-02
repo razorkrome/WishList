@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.594bf782.css","mappings":"AAAA,EACI,SACA,UAGJ,KACI","sources":["App.scss"],"sourcesContent":["* {\n    margin: 0;\n    padding: 0;\n}\n\n.App {\n    background-color: #50c878;\n}\n"],"names":[],"sourceRoot":""}
