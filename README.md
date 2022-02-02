@@ -1,2 +1,2 @@
 # wishlist
- Wishlist with star rating
+ Wishlist with star rating, that can be randomized
