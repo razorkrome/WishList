@@ -17,7 +17,7 @@
     "rxjs": "^7.5.2",
     "web-vitals": "^2.1.4"
   },
-  "homepage": ".",
+  "homepage": "http://razorkrome.github.io/WishList",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
