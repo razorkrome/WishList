@@ -35,7 +35,7 @@ export const useRandomizeRate = () => {
             if(timerId) clearTimeout()
             if(intervalId) clearInterval()
         }
-
+    // eslint-disable-next-line react-hooks/exhaustive-deps
     },[isActiveRandomize])
 
     const clickHandler = () => {

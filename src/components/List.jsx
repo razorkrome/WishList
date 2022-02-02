@@ -12,6 +12,7 @@ export const List = () => {
 
     useEffect(() => {
         sortList()
+        // eslint-disable-next-line react-hooks/exhaustive-deps
     },[])
 
     return (

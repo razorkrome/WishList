@@ -23,7 +23,7 @@ const listSlice = createSlice({
             state.data = newData
         },
         randomize(state) {
-            state.data.map(item => {
+            state.data.forEach(item => {
                 item.rate = Math.floor(Math.random()*5 + 1)
             })
         },
